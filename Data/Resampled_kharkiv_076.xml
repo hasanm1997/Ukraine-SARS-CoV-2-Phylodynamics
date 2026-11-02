@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<beast beautitemplate="Standard" beautistatus="" namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.base.evolution.alignment:beast.pkgmgmt:beast.base.core:beast.base.inference:beast.base.evolution.tree.coalescent:beast.pkgmgmt:beast.base.core:beast.base.inference.util:beast.evolution.nuc:beast.base.evolution.operator:beast.base.inference.operator:beast.base.evolution.sitemodel:beast.base.evolution.substitutionmodel:beast.base.evolution.likelihood" required="BEAST.base v2.7.8" version="2.7">
+  <data id="Resample_Kharkiv_spike" spec="Alignment" name="alignment">
+    <sequence id="seq_EPI_ISL_6280290|2021-10-18" spec="Sequence" taxon="EPI_ISL_6280290|2021-10-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_6280241|2021-10-16" spec="Sequence" taxon="EPI_ISL_6280241|2021-10-16" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_6280281|2021-10-21" spec="Sequence" taxon="EPI_ISL_6280281|2021-10-21" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_6700701|2021-10-15" spec="Sequence" taxon="EPI_ISL_6700701|2021-10-15" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_6700699|2021-10-21" spec="Sequence" taxon="EPI_ISL_6700699|2021-10-21" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_6700700|2021-10-21" spec="Sequence" taxon="EPI_ISL_6700700|2021-10-21" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_6700698|2021-10-20" spec="Sequence" taxon="EPI_ISL_6700698|2021-10-20" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_9859623|2022-01-18" spec="Sequence" taxon="EPI_ISL_9859623|2022-01-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_9859624|2022-01-18" spec="Sequence" taxon="EPI_ISL_9859624|2022-01-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_11438709|2022-01-18" spec="Sequence" taxon="EPI_ISL_11438709|2022-01-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_11438705|2022-01-18" spec="Sequence" taxon="EPI_ISL_11438705|2022-01-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_11438706|2022-01-18" spec="Sequence" taxon="EPI_ISL_11438706|2022-01-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_11438707|2022-01-18" spec="Sequence" taxon="EPI_ISL_11438707|2022-01-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_11438708|2022-01-18" spec="Sequence" taxon="EPI_ISL_11438708|2022-01-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_14236297|2022-03-15" spec="Sequence" taxon="EPI_ISL_14236297|2022-03-15" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_16399199|2022-10-19" spec="Sequence" taxon="EPI_ISL_16399199|2022-10-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_16399204|2022-10-19" spec="Sequence" taxon="EPI_ISL_16399204|2022-10-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_16399203|2022-10-19" spec="Sequence" taxon="EPI_ISL_16399203|2022-10-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_16399200|2022-10-19" spec="Sequence" taxon="EPI_ISL_16399200|2022-10-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_16399201|2022-10-19" spec="Sequence" taxon="EPI_ISL_16399201|2022-10-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_16399202|2022-10-19" spec="Sequence" taxon="EPI_ISL_16399202|2022-10-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_16399198|2022-10-19" spec="Sequence" taxon="EPI_ISL_16399198|2022-10-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_16399197|2022-10-19" spec="Sequence" taxon="EPI_ISL_16399197|2022-10-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_16846056|2023-01-04" spec="Sequence" taxon="EPI_ISL_16846056|2023-01-04" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_16832082|2023-01-04" spec="Sequence" taxon="EPI_ISL_16832082|2023-01-04" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17018607|2023-01-13" spec="Sequence" taxon="EPI_ISL_17018607|2023-01-13" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17018613|2023-01-17" spec="Sequence" taxon="EPI_ISL_17018613|2023-01-17" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17018596|2023-01-11" spec="Sequence" taxon="EPI_ISL_17018596|2023-01-11" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17155981|2023-01-27" spec="Sequence" taxon="EPI_ISL_17155981|2023-01-27" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17165436|2023-01-26" spec="Sequence" taxon="EPI_ISL_17165436|2023-01-26" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17284104|2023-02-24" spec="Sequence" taxon="EPI_ISL_17284104|2023-02-24" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17284103|2023-02-23" spec="Sequence" taxon="EPI_ISL_17284103|2023-02-23" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17064001|2023-01-24" spec="Sequence" taxon="EPI_ISL_17064001|2023-01-24" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17076138|2023-01-20" spec="Sequence" taxon="EPI_ISL_17076138|2023-01-20" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17076119|2023-01-20" spec="Sequence" taxon="EPI_ISL_17076119|2023-01-20" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17390723|2023-03-13" spec="Sequence" taxon="EPI_ISL_17390723|2023-03-13" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17521091|2023-03-15" spec="Sequence" taxon="EPI_ISL_17521091|2023-03-15" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17583250|2023-04-11" spec="Sequence" taxon="EPI_ISL_17583250|2023-04-11" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17655710|2023-04-11" spec="Sequence" taxon="EPI_ISL_17655710|2023-04-11" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17655716|2023-04-11" spec="Sequence" taxon="EPI_ISL_17655716|2023-04-11" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17655712|2023-04-11" spec="Sequence" taxon="EPI_ISL_17655712|2023-04-11" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17722279|2023-04-12" spec="Sequence" taxon="EPI_ISL_17722279|2023-04-12" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17722278|2023-04-12" spec="Sequence" taxon="EPI_ISL_17722278|2023-04-12" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17722281|2023-04-13" spec="Sequence" taxon="EPI_ISL_17722281|2023-04-13" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17781287|2023-05-16" spec="Sequence" taxon="EPI_ISL_17781287|2023-05-16" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17781283|2023-05-16" spec="Sequence" taxon="EPI_ISL_17781283|2023-05-16" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17797009|2023-03-15" spec="Sequence" taxon="EPI_ISL_17797009|2023-03-15" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17833461|2023-05-19" spec="Sequence" taxon="EPI_ISL_17833461|2023-05-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17830528|2023-05-17" spec="Sequence" taxon="EPI_ISL_17830528|2023-05-17" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17821170|2023-04-10" spec="Sequence" taxon="EPI_ISL_17821170|2023-04-10" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17821169|2023-04-10" spec="Sequence" taxon="EPI_ISL_17821169|2023-04-10" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17830523|2023-05-16" spec="Sequence" taxon="EPI_ISL_17830523|2023-05-16" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17985319|2023-05-16" spec="Sequence" taxon="EPI_ISL_17985319|2023-05-16" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17985354|2023-06-16" spec="Sequence" taxon="EPI_ISL_17985354|2023-06-16" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17985352|2023-06-16" spec="Sequence" taxon="EPI_ISL_17985352|2023-06-16" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17971218|2023-06-14" spec="Sequence" taxon="EPI_ISL_17971218|2023-06-14" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_17971217|2023-06-14" spec="Sequence" taxon="EPI_ISL_17971217|2023-06-14" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18295029|2023-05-16" spec="Sequence" taxon="EPI_ISL_18295029|2023-05-16" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18440545|2023-10-04" spec="Sequence" taxon="EPI_ISL_18440545|2023-10-04" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18584433|2023-10-16" spec="Sequence" taxon="EPI_ISL_18584433|2023-10-16" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18619889|2023-10-18" spec="Sequence" taxon="EPI_ISL_18619889|2023-10-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18723464|2023-11-15" spec="Sequence" taxon="EPI_ISL_18723464|2023-11-15" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18679618|2023-11-08" spec="Sequence" taxon="EPI_ISL_18679618|2023-11-08" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18701508|2023-11-08" spec="Sequence" taxon="EPI_ISL_18701508|2023-11-08" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18701510|2023-11-13" spec="Sequence" taxon="EPI_ISL_18701510|2023-11-13" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18701509|2023-11-08" spec="Sequence" taxon="EPI_ISL_18701509|2023-11-08" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18963619|2024-02-15" spec="Sequence" taxon="EPI_ISL_18963619|2024-02-15" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18919233|2024-01-17" spec="Sequence" taxon="EPI_ISL_18919233|2024-01-17" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19093887|2023-10-18" spec="Sequence" taxon="EPI_ISL_19093887|2023-10-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18963616|2024-02-14" spec="Sequence" taxon="EPI_ISL_18963616|2024-02-14" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18919236|2024-01-17" spec="Sequence" taxon="EPI_ISL_18919236|2024-01-17" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18919235|2024-01-17" spec="Sequence" taxon="EPI_ISL_18919235|2024-01-17" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18919238|2024-01-22" spec="Sequence" taxon="EPI_ISL_18919238|2024-01-22" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18919234|2024-01-18" spec="Sequence" taxon="EPI_ISL_18919234|2024-01-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18963614|2024-02-14" spec="Sequence" taxon="EPI_ISL_18963614|2024-02-14" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19111623|2023-10-23" spec="Sequence" taxon="EPI_ISL_19111623|2023-10-23" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19111624|2023-10-30" spec="Sequence" taxon="EPI_ISL_19111624|2023-10-30" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19111625|2023-10-30" spec="Sequence" taxon="EPI_ISL_19111625|2023-10-30" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19114569|2023-11-08" spec="Sequence" taxon="EPI_ISL_19114569|2023-11-08" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19114570|2023-11-08" spec="Sequence" taxon="EPI_ISL_19114570|2023-11-08" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19131058|2023-11-08" spec="Sequence" taxon="EPI_ISL_19131058|2023-11-08" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_18963612|2024-02-13" spec="Sequence" taxon="EPI_ISL_18963612|2024-02-13" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19306039|2024-02-16" spec="Sequence" taxon="EPI_ISL_19306039|2024-02-16" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19382153|2024-08-09" spec="Sequence" taxon="EPI_ISL_19382153|2024-08-09" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19382181|2024-08-04" spec="Sequence" taxon="EPI_ISL_19382181|2024-08-04" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19453868|2024-08-19" spec="Sequence" taxon="EPI_ISL_19453868|2024-08-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19453841|2024-08-19" spec="Sequence" taxon="EPI_ISL_19453841|2024-08-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19453840|2024-08-19" spec="Sequence" taxon="EPI_ISL_19453840|2024-08-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19555162|2024-10-15" spec="Sequence" taxon="EPI_ISL_19555162|2024-10-15" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19555163|2024-10-17" spec="Sequence" taxon="EPI_ISL_19555163|2024-10-17" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19555166|2024-10-23" spec="Sequence" taxon="EPI_ISL_19555166|2024-10-23" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19555165|2024-10-22" spec="Sequence" taxon="EPI_ISL_19555165|2024-10-22" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19555167|2024-10-23" spec="Sequence" taxon="EPI_ISL_19555167|2024-10-23" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19555160|2024-10-11" spec="Sequence" taxon="EPI_ISL_19555160|2024-10-11" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19642872|2024-11-19" spec="Sequence" taxon="EPI_ISL_19642872|2024-11-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19735706|2024-12-25" spec="Sequence" taxon="EPI_ISL_19735706|2024-12-25" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19642895|2024-11-27" spec="Sequence" taxon="EPI_ISL_19642895|2024-11-27" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_19644695|2024-11-19" spec="Sequence" taxon="EPI_ISL_19644695|2024-11-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_582510|2020-08-07" spec="Sequence" taxon="EPI_ISL_582510|2020-08-07" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_582511|2020-08-07" spec="Sequence" taxon="EPI_ISL_582511|2020-08-07" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_582512|2020-08-07" spec="Sequence" taxon="EPI_ISL_582512|2020-08-07" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_576146|2020-07-28" spec="Sequence" taxon="EPI_ISL_576146|2020-07-28" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_582509|2020-08-04" spec="Sequence" taxon="EPI_ISL_582509|2020-08-04" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_13758083|2021-12-07" spec="Sequence" taxon="EPI_ISL_13758083|2021-12-07" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20129259|2025-07-02" spec="Sequence" taxon="EPI_ISL_20129259|2025-07-02" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20139561|2025-08-04" spec="Sequence" taxon="EPI_ISL_20139561|2025-08-04" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20154819|2025-08-12" spec="Sequence" taxon="EPI_ISL_20154819|2025-08-12" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20154821|2025-08-12" spec="Sequence" taxon="EPI_ISL_20154821|2025-08-12" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20154823|2025-08-12" spec="Sequence" taxon="EPI_ISL_20154823|2025-08-12" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20154824|2025-08-14" spec="Sequence" taxon="EPI_ISL_20154824|2025-08-14" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20154825|2025-08-14" spec="Sequence" taxon="EPI_ISL_20154825|2025-08-14" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20154826|2025-08-09" spec="Sequence" taxon="EPI_ISL_20154826|2025-08-09" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20154827|2025-08-15" spec="Sequence" taxon="EPI_ISL_20154827|2025-08-15" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20154828|2025-08-18" spec="Sequence" taxon="EPI_ISL_20154828|2025-08-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20154830|2025-08-18" spec="Sequence" taxon="EPI_ISL_20154830|2025-08-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20154831|2025-08-18" spec="Sequence" taxon="EPI_ISL_20154831|2025-08-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20179668|2025-08-15" spec="Sequence" taxon="EPI_ISL_20179668|2025-08-15" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20179669|2025-08-18" spec="Sequence" taxon="EPI_ISL_20179669|2025-08-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20179670|2025-08-18" spec="Sequence" taxon="EPI_ISL_20179670|2025-08-18" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20179672|2025-08-19" spec="Sequence" taxon="EPI_ISL_20179672|2025-08-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20179673|2025-08-19" spec="Sequence" taxon="EPI_ISL_20179673|2025-08-19" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20179675|2025-08-20" spec="Sequence" taxon="EPI_ISL_20179675|2025-08-20" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_582513|2020-07-31" spec="Sequence" taxon="EPI_ISL_582513|2020-07-31" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20139559|2025-07-31" spec="Sequence" taxon="EPI_ISL_20139559|2025-07-31" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_12249372|2022-02-02" spec="Sequence" taxon="EPI_ISL_12249372|2022-02-02" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_12249374|2022-02-02" spec="Sequence" taxon="EPI_ISL_12249374|2022-02-02" totalcount="4" value="SEQUENCE_REMOVED"/>
+    <sequence id="seq_EPI_ISL_20139560|2025-08-04" spec="Sequence" taxon="EPI_ISL_20139560|2025-08-04" totalcount="4" value="SEQUENCE_REMOVED"/>
+  </data>
+  <map name="Uniform">beast.base.inference.distribution.Uniform</map>
+  <map name="Exponential">beast.base.inference.distribution.Exponential</map>
+  <map name="LogNormal">beast.base.inference.distribution.LogNormalDistributionModel</map>
+  <map name="Normal">beast.base.inference.distribution.Normal</map>
+  <map name="Beta">beast.base.inference.distribution.Beta</map>
+  <map name="Gamma">beast.base.inference.distribution.Gamma</map>
+  <map name="LaplaceDistribution">beast.base.inference.distribution.LaplaceDistribution</map>
+  <map name="prior">beast.base.inference.distribution.Prior</map>
+  <map name="InverseGamma">beast.base.inference.distribution.InverseGamma</map>
+  <map name="OneOnX">beast.base.inference.distribution.OneOnX</map>
+  <run id="mcmc" spec="MCMC" chainLength="150000000" storeEvery="5000">
+    <state id="state" spec="State" storeEvery="50">
+      <tree id="Tree.t:Resample_Kharkiv_spike" spec="beast.base.evolution.tree.Tree" name="stateNode">
+        <trait id="dateTrait.t:Resample_Kharkiv_spike" spec="beast.base.evolution.tree.TraitSet" dateFormat="yyyy-M-dd" traitname="date" value="EPI_ISL_6280290|2021-10-18=2021-10-18,EPI_ISL_6280241|2021-10-16=2021-10-16,EPI_ISL_6280281|2021-10-21=2021-10-21,EPI_ISL_6700701|2021-10-15=2021-10-15,EPI_ISL_6700699|2021-10-21=2021-10-21,EPI_ISL_6700700|2021-10-21=2021-10-21,EPI_ISL_6700698|2021-10-20=2021-10-20,EPI_ISL_9859623|2022-01-18=2022-01-18,EPI_ISL_9859624|2022-01-18=2022-01-18,EPI_ISL_11438709|2022-01-18=2022-01-18,EPI_ISL_11438705|2022-01-18=2022-01-18,EPI_ISL_11438706|2022-01-18=2022-01-18,EPI_ISL_11438707|2022-01-18=2022-01-18,EPI_ISL_11438708|2022-01-18=2022-01-18,EPI_ISL_14236297|2022-03-15=2022-03-15,EPI_ISL_16399199|2022-10-19=2022-10-19,EPI_ISL_16399204|2022-10-19=2022-10-19,EPI_ISL_16399203|2022-10-19=2022-10-19,EPI_ISL_16399200|2022-10-19=2022-10-19,EPI_ISL_16399201|2022-10-19=2022-10-19,EPI_ISL_16399202|2022-10-19=2022-10-19,EPI_ISL_16399198|2022-10-19=2022-10-19,EPI_ISL_16399197|2022-10-19=2022-10-19,EPI_ISL_16846056|2023-01-04=2023-01-04,EPI_ISL_16832082|2023-01-04=2023-01-04,EPI_ISL_17018607|2023-01-13=2023-01-13,EPI_ISL_17018613|2023-01-17=2023-01-17,EPI_ISL_17018596|2023-01-11=2023-01-11,EPI_ISL_17155981|2023-01-27=2023-01-27,EPI_ISL_17165436|2023-01-26=2023-01-26,EPI_ISL_17284104|2023-02-24=2023-02-24,EPI_ISL_17284103|2023-02-23=2023-02-23,EPI_ISL_17064001|2023-01-24=2023-01-24,EPI_ISL_17076138|2023-01-20=2023-01-20,EPI_ISL_17076119|2023-01-20=2023-01-20,EPI_ISL_17390723|2023-03-13=2023-03-13,EPI_ISL_17521091|2023-03-15=2023-03-15,EPI_ISL_17583250|2023-04-11=2023-04-11,EPI_ISL_17655710|2023-04-11=2023-04-11,EPI_ISL_17655716|2023-04-11=2023-04-11,EPI_ISL_17655712|2023-04-11=2023-04-11,EPI_ISL_17722279|2023-04-12=2023-04-12,EPI_ISL_17722278|2023-04-12=2023-04-12,EPI_ISL_17722281|2023-04-13=2023-04-13,EPI_ISL_17781287|2023-05-16=2023-05-16,EPI_ISL_17781283|2023-05-16=2023-05-16,EPI_ISL_17797009|2023-03-15=2023-03-15,EPI_ISL_17833461|2023-05-19=2023-05-19,EPI_ISL_17830528|2023-05-17=2023-05-17,EPI_ISL_17821170|2023-04-10=2023-04-10,EPI_ISL_17821169|2023-04-10=2023-04-10,EPI_ISL_17830523|2023-05-16=2023-05-16,EPI_ISL_17985319|2023-05-16=2023-05-16,EPI_ISL_17985354|2023-06-16=2023-06-16,EPI_ISL_17985352|2023-06-16=2023-06-16,EPI_ISL_17971218|2023-06-14=2023-06-14,EPI_ISL_17971217|2023-06-14=2023-06-14,EPI_ISL_18295029|2023-05-16=2023-05-16,EPI_ISL_18440545|2023-10-04=2023-10-04,EPI_ISL_18584433|2023-10-16=2023-10-16,EPI_ISL_18619889|2023-10-18=2023-10-18,EPI_ISL_18723464|2023-11-15=2023-11-15,EPI_ISL_18679618|2023-11-08=2023-11-08,EPI_ISL_18701508|2023-11-08=2023-11-08,EPI_ISL_18701510|2023-11-13=2023-11-13,EPI_ISL_18701509|2023-11-08=2023-11-08,EPI_ISL_18963619|2024-02-15=2024-02-15,EPI_ISL_18919233|2024-01-17=2024-01-17,EPI_ISL_19093887|2023-10-18=2023-10-18,EPI_ISL_18963616|2024-02-14=2024-02-14,EPI_ISL_18919236|2024-01-17=2024-01-17,EPI_ISL_18919235|2024-01-17=2024-01-17,EPI_ISL_18919238|2024-01-22=2024-01-22,EPI_ISL_18919234|2024-01-18=2024-01-18,EPI_ISL_18963614|2024-02-14=2024-02-14,EPI_ISL_19111623|2023-10-23=2023-10-23,EPI_ISL_19111624|2023-10-30=2023-10-30,EPI_ISL_19111625|2023-10-30=2023-10-30,EPI_ISL_19114569|2023-11-08=2023-11-08,EPI_ISL_19114570|2023-11-08=2023-11-08,EPI_ISL_19131058|2023-11-08=2023-11-08,EPI_ISL_18963612|2024-02-13=2024-02-13,EPI_ISL_19306039|2024-02-16=2024-02-16,EPI_ISL_19382153|2024-08-09=2024-08-09,EPI_ISL_19382181|2024-08-04=2024-08-04,EPI_ISL_19453868|2024-08-19=2024-08-19,EPI_ISL_19453841|2024-08-19=2024-08-19,EPI_ISL_19453840|2024-08-19=2024-08-19,EPI_ISL_19555162|2024-10-15=2024-10-15,EPI_ISL_19555163|2024-10-17=2024-10-17,EPI_ISL_19555166|2024-10-23=2024-10-23,EPI_ISL_19555165|2024-10-22=2024-10-22,EPI_ISL_19555167|2024-10-23=2024-10-23,EPI_ISL_19555160|2024-10-11=2024-10-11,EPI_ISL_19642872|2024-11-19=2024-11-19,EPI_ISL_19735706|2024-12-25=2024-12-25,EPI_ISL_19642895|2024-11-27=2024-11-27,EPI_ISL_19644695|2024-11-19=2024-11-19,EPI_ISL_582510|2020-08-07=2020-08-07,EPI_ISL_582511|2020-08-07=2020-08-07,EPI_ISL_582512|2020-08-07=2020-08-07,EPI_ISL_576146|2020-07-28=2020-07-28,EPI_ISL_582509|2020-08-04=2020-08-04,EPI_ISL_13758083|2021-12-07=2021-12-07,EPI_ISL_20129259|2025-07-02=2025-07-02,EPI_ISL_20139561|2025-08-04=2025-08-04,EPI_ISL_20154819|2025-08-12=2025-08-12,EPI_ISL_20154821|2025-08-12=2025-08-12,EPI_ISL_20154823|2025-08-12=2025-08-12,EPI_ISL_20154824|2025-08-14=2025-08-14,EPI_ISL_20154825|2025-08-14=2025-08-14,EPI_ISL_20154826|2025-08-09=2025-08-09,EPI_ISL_20154827|2025-08-15=2025-08-15,EPI_ISL_20154828|2025-08-18=2025-08-18,EPI_ISL_20154830|2025-08-18=2025-08-18,EPI_ISL_20154831|2025-08-18=2025-08-18,EPI_ISL_20179668|2025-08-15=2025-08-15,EPI_ISL_20179669|2025-08-18=2025-08-18,EPI_ISL_20179670|2025-08-18=2025-08-18,EPI_ISL_20179672|2025-08-19=2025-08-19,EPI_ISL_20179673|2025-08-19=2025-08-19,EPI_ISL_20179675|2025-08-20=2025-08-20,EPI_ISL_582513|2020-07-31=2020-07-31,EPI_ISL_20139559|2025-07-31=2025-07-31,EPI_ISL_12249372|2022-02-02=2022-02-02,EPI_ISL_12249374|2022-02-02=2022-02-02,EPI_ISL_20139560|2025-08-04=2025-08-04">
+          <taxa id="TaxonSet.Resample_Kharkiv_spike" spec="TaxonSet">
+            <alignment idref="Resample_Kharkiv_spike"/>
+          </taxa>
+        </trait>
+        <taxonset idref="TaxonSet.Resample_Kharkiv_spike"/>
+      </tree>
+      <parameter id="clockRate.c:Resample_Kharkiv_spike" spec="parameter.RealParameter" lower="0.0" name="stateNode">8.0E-4</parameter>
+      <parameter id="bPopSizes.t:Resample_Kharkiv_spike" spec="parameter.RealParameter" dimension="10" lower="0.0" name="stateNode">1.0</parameter>
+      <stateNode id="bGroupSizes.t:Resample_Kharkiv_spike" spec="parameter.IntegerParameter" dimension="10">1</stateNode>
+      <parameter id="kappa.s:Resample_Kharkiv_spike" spec="parameter.RealParameter" lower="0.0" name="stateNode">2.0</parameter>
+      <parameter id="freqParameter.s:Resample_Kharkiv_spike" spec="parameter.RealParameter" dimension="4" lower="0.0" name="stateNode" upper="1.0">0.25</parameter>
+    </state>
+    <init id="RandomTree.t:Resample_Kharkiv_spike" spec="RandomTree" estimate="false" initial="@Tree.t:Resample_Kharkiv_spike" taxa="@Resample_Kharkiv_spike">
+      <populationModel id="ConstantPopulation0.t:Resample_Kharkiv_spike" spec="ConstantPopulation">
+        <parameter id="randomPopSize.t:Resample_Kharkiv_spike" spec="parameter.RealParameter" name="popSize">1.0</parameter>
+      </populationModel>
+    </init>
+    <distribution id="posterior" spec="CompoundDistribution">
+      <distribution id="prior" spec="CompoundDistribution">
+        <distribution id="BayesianSkyline.t:Resample_Kharkiv_spike" spec="BayesianSkyline" groupSizes="@bGroupSizes.t:Resample_Kharkiv_spike" popSizes="@bPopSizes.t:Resample_Kharkiv_spike">
+          <treeIntervals id="BSPTreeIntervals.t:Resample_Kharkiv_spike" spec="beast.base.evolution.tree.TreeIntervals" tree="@Tree.t:Resample_Kharkiv_spike"/>
+        </distribution>
+        <distribution id="MarkovChainedPopSizes.t:Resample_Kharkiv_spike" spec="distribution.MarkovChainDistribution" jeffreys="true" parameter="@bPopSizes.t:Resample_Kharkiv_spike"/>
+        <prior id="ClockPrior.c:Resample_Kharkiv_spike" name="distribution" x="@clockRate.c:Resample_Kharkiv_spike">
+          <Gamma id="Gamma.0" mode="ShapeRate" name="distr">
+            <parameter id="RealParameter.4" spec="parameter.RealParameter" estimate="false" name="alpha">2.56</parameter>
+            <parameter id="RealParameter.5" spec="parameter.RealParameter" estimate="false" name="beta">3200.0</parameter>
+          </Gamma>
+        </prior>
+        <prior id="FrequenciesPrior.s:Resample_Kharkiv_spike" name="distribution" x="@freqParameter.s:Resample_Kharkiv_spike">
+          <distr id="Dirichlet.0" spec="distribution.Dirichlet">
+            <parameter id="RealParameter.3" spec="parameter.RealParameter" dimension="4" estimate="false" name="alpha">4.0 4.0 4.0 4.0</parameter>
+          </distr>
+        </prior>
+        <prior id="KappaPrior.s:Resample_Kharkiv_spike" name="distribution" x="@kappa.s:Resample_Kharkiv_spike">
+          <LogNormal id="LogNormalDistributionModel.0" name="distr">
+            <parameter id="RealParameter.1" spec="parameter.RealParameter" estimate="false" name="M">1.0</parameter>
+            <parameter id="RealParameter.2" spec="parameter.RealParameter" estimate="false" name="S">1.25</parameter>
+          </LogNormal>
+        </prior>
+      </distribution>
+      <distribution id="likelihood" spec="CompoundDistribution" useThreads="true">
+        <distribution id="treeLikelihood.Resample_Kharkiv_spike" spec="ThreadedTreeLikelihood" data="@Resample_Kharkiv_spike" tree="@Tree.t:Resample_Kharkiv_spike">
+          <siteModel id="SiteModel.s:Resample_Kharkiv_spike" spec="SiteModel" gammaCategoryCount="4">
+            <parameter id="mutationRate.s:Resample_Kharkiv_spike" spec="parameter.RealParameter" estimate="false" lower="0.0" name="mutationRate">1.0</parameter>
+            <parameter id="gammaShape.s:Resample_Kharkiv_spike" spec="parameter.RealParameter" estimate="false" name="shape">1.0</parameter>
+            <parameter id="proportionInvariant.s:Resample_Kharkiv_spike" spec="parameter.RealParameter" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+            <substModel id="hky.s:Resample_Kharkiv_spike" spec="HKY" kappa="@kappa.s:Resample_Kharkiv_spike">
+              <frequencies id="estimatedFreqs.s:Resample_Kharkiv_spike" spec="Frequencies" frequencies="@freqParameter.s:Resample_Kharkiv_spike"/>
+            </substModel>
+          </siteModel>
+          <branchRateModel id="StrictClock.c:Resample_Kharkiv_spike" spec="beast.base.evolution.branchratemodel.StrictClockModel" clock.rate="@clockRate.c:Resample_Kharkiv_spike"/>
+        </distribution>
+      </distribution>
+    </distribution>
+    <operator id="StrictClockRateScaler.c:Resample_Kharkiv_spike" spec="AdaptableOperatorSampler" weight="1.5">
+      <parameter idref="clockRate.c:Resample_Kharkiv_spike"/>
+      <operator id="AVMNOperator.Resample_Kharkiv_spike" spec="kernel.AdaptableVarianceMultivariateNormalOperator" allowNonsense="true" beta="0.05" burnin="400" initial="800" weight="0.1">
+        <transformations id="AVMNSumTransform.Resample_Kharkiv_spike" spec="operator.kernel.Transform$LogConstrainedSumTransform">
+          <f idref="freqParameter.s:Resample_Kharkiv_spike"/>
+        </transformations>
+        <transformations id="AVMNLogTransform.Resample_Kharkiv_spike" spec="operator.kernel.Transform$LogTransform">
+          <f idref="clockRate.c:Resample_Kharkiv_spike"/>
+          <f idref="kappa.s:Resample_Kharkiv_spike"/>
+        </transformations>
+        <transformations id="AVMNNoTransform.Resample_Kharkiv_spike" spec="operator.kernel.Transform$NoTransform">
+          <f idref="Tree.t:Resample_Kharkiv_spike"/>
+        </transformations>
+      </operator>
+      <operator id="StrictClockRateScalerX.c:Resample_Kharkiv_spike" spec="kernel.BactrianScaleOperator" parameter="@clockRate.c:Resample_Kharkiv_spike" upper="10.0" weight="3.0"/>
+    </operator>
+    <operator id="strictClockUpDownOperator.c:Resample_Kharkiv_spike" spec="AdaptableOperatorSampler" weight="1.5">
+      <parameter idref="clockRate.c:Resample_Kharkiv_spike"/>
+      <tree idref="Tree.t:Resample_Kharkiv_spike"/>
+      <operator idref="AVMNOperator.Resample_Kharkiv_spike"/>
+      <operator id="strictClockUpDownOperatorX.c:Resample_Kharkiv_spike" spec="operator.kernel.BactrianUpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="clockRate.c:Resample_Kharkiv_spike"/>
+        <down idref="Tree.t:Resample_Kharkiv_spike"/>
+      </operator>
+    </operator>
+    <operator id="BayesianSkylineBICEPSEpochTop.t:Resample_Kharkiv_spike" spec="EpochFlexOperator" scaleFactor="0.1" tree="@Tree.t:Resample_Kharkiv_spike" weight="2.0"/>
+    <operator id="BayesianSkylineBICEPSEpochAll.t:Resample_Kharkiv_spike" spec="EpochFlexOperator" fromOldestTipOnly="false" scaleFactor="0.1" tree="@Tree.t:Resample_Kharkiv_spike" weight="2.0"/>
+    <operator id="BayesianSkylineBICEPSTreeFlex.t:Resample_Kharkiv_spike" spec="TreeStretchOperator" scaleFactor="0.01" tree="@Tree.t:Resample_Kharkiv_spike" weight="2.0"/>
+    <operator id="BayesianSkylineTreeRootScaler.t:Resample_Kharkiv_spike" spec="kernel.BactrianScaleOperator" rootOnly="true" scaleFactor="0.1" tree="@Tree.t:Resample_Kharkiv_spike" upper="10.0" weight="3.0"/>
+    <operator id="BayesianSkylineUniformOperator.t:Resample_Kharkiv_spike" spec="kernel.BactrianNodeOperator" tree="@Tree.t:Resample_Kharkiv_spike" weight="30.0"/>
+    <operator id="BayesianSkylineSubtreeSlide.t:Resample_Kharkiv_spike" spec="kernel.BactrianSubtreeSlide" tree="@Tree.t:Resample_Kharkiv_spike" weight="15.0"/>
+    <operator id="BayesianSkylineNarrow.t:Resample_Kharkiv_spike" spec="Exchange" tree="@Tree.t:Resample_Kharkiv_spike" weight="15.0"/>
+    <operator id="BayesianSkylineWide.t:Resample_Kharkiv_spike" spec="Exchange" isNarrow="false" tree="@Tree.t:Resample_Kharkiv_spike" weight="3.0"/>
+    <operator id="BayesianSkylineWilsonBalding.t:Resample_Kharkiv_spike" spec="WilsonBalding" tree="@Tree.t:Resample_Kharkiv_spike" weight="3.0"/>
+    <operator id="popSizesScaler.t:Resample_Kharkiv_spike" spec="kernel.BactrianScaleOperator" parameter="@bPopSizes.t:Resample_Kharkiv_spike" upper="10.0" weight="15.0"/>
+    <operator id="groupSizesDelta.t:Resample_Kharkiv_spike" spec="operator.kernel.BactrianDeltaExchangeOperator" integer="true" weight="6.0">
+      <intparameter idref="bGroupSizes.t:Resample_Kharkiv_spike"/>
+    </operator>
+    <operator id="KappaScaler.s:Resample_Kharkiv_spike" spec="AdaptableOperatorSampler" weight="0.05">
+      <parameter idref="kappa.s:Resample_Kharkiv_spike"/>
+      <operator idref="AVMNOperator.Resample_Kharkiv_spike"/>
+      <operator id="KappaScalerX.s:Resample_Kharkiv_spike" spec="kernel.BactrianScaleOperator" parameter="@kappa.s:Resample_Kharkiv_spike" scaleFactor="0.1" upper="10.0" weight="0.1"/>
+    </operator>
+    <operator id="FrequenciesExchanger.s:Resample_Kharkiv_spike" spec="AdaptableOperatorSampler" weight="0.05">
+      <parameter idref="freqParameter.s:Resample_Kharkiv_spike"/>
+      <operator idref="AVMNOperator.Resample_Kharkiv_spike"/>
+      <operator id="FrequenciesExchangerX.s:Resample_Kharkiv_spike" spec="operator.kernel.BactrianDeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="freqParameter.s:Resample_Kharkiv_spike"/>
+      </operator>
+    </operator>
+    <logger id="tracelog" spec="Logger" fileName="$(filebase).log" logEvery="5000" model="@posterior" sanitiseHeaders="true" sort="smart">
+      <log idref="posterior"/>
+      <log idref="likelihood"/>
+      <log idref="prior"/>
+      <log idref="treeLikelihood.Resample_Kharkiv_spike"/>
+      <log id="TreeHeight.t:Resample_Kharkiv_spike" spec="beast.base.evolution.tree.TreeStatLogger" tree="@Tree.t:Resample_Kharkiv_spike"/>
+      <log idref="clockRate.c:Resample_Kharkiv_spike"/>
+      <log idref="BayesianSkyline.t:Resample_Kharkiv_spike"/>
+      <log idref="bPopSizes.t:Resample_Kharkiv_spike"/>
+      <log idref="bGroupSizes.t:Resample_Kharkiv_spike"/>
+      <log idref="kappa.s:Resample_Kharkiv_spike"/>
+      <log idref="freqParameter.s:Resample_Kharkiv_spike"/>
+    </logger>
+    <logger id="screenlog" spec="Logger" logEvery="5000">
+      <log idref="posterior"/>
+      <log idref="likelihood"/>
+      <log idref="prior"/>
+    </logger>
+    <logger id="treelog.t:Resample_Kharkiv_spike" spec="Logger" fileName="$(filebase)-$(tree).trees" logEvery="5000" mode="tree">
+      <log id="TreeWithMetaDataLogger.t:Resample_Kharkiv_spike" spec="beast.base.evolution.TreeWithMetaDataLogger" tree="@Tree.t:Resample_Kharkiv_spike"/>
+    </logger>
+    <operatorschedule id="OperatorSchedule" spec="OperatorSchedule"/>
+  </run>
+</beast>
